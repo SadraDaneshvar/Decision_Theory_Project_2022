@@ -24,3 +24,6 @@ This section delves deeply into the existing literature on government decision-m
 Moving beyond the theoretical realm, we create a questionnaire to quantify criteria importance and alternatives for efficient governance. Employing the Analytic Hierarchy Process (AHP), we analyze the survey results using Python, enhancing accessibility and robustness. This approach allows for broad public involvement and transparent analysis. Striking a balance between alternatives and criteria ensures meaningful insights without overwhelming participants.
 
 <span>
+
+<br>
+You can find the results and step-by-step explanations for this project in the .pdf file. We've also included the code, along with complete documentation and line-by-line explanations for your further review.
